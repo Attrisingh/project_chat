@@ -1,0 +1,25 @@
+html, body
+{
+    height: 100%;
+    margin: 0;
+}
+
+body
+{
+   background-size:cover;
+}
+
+.header
+{
+    margin-left: 73%;
+    padding-top: 40px;
+    color:burlywood
+}
+
+.login_div
+{
+    margin-left: 60%;
+    margin-top: 80px;
+    background-color: rgba(0, 255, 255, 0.466);
+    border-radius: 15px;
+}
